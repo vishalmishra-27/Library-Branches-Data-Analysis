@@ -195,11 +195,3 @@ pip install pandas matplotlib plotly scipy
 4. Visualize the outputs, which include charts and maps.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This `README.md` provides an overview of the project, instructions for installation and usage, and a description of each step of the analysis. You can copy-paste this into your GitHub repository's `README.md` file for easy reference.
