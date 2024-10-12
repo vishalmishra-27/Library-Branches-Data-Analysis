@@ -1,11 +1,5 @@
 # Library Branches Data Analysis
 
-Below is the documentation formatted for a `README.md` file on GitHub:
-
----
-
-# Library Branches Data Analysis
-
 This project involves analyzing data from a CSV file containing information about library branches. The analysis includes checking for duplicates, identifying outliers, mapping locations, and comparing various metrics like inventory size and population.
 
 ## Files
